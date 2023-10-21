@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "dev_db",
+    "user": "postgres",
+    "password": "password123"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "test_db",
+    "user": "postgres",
+    "password": "password123"
+  },
+  "sql-file": true
+}
